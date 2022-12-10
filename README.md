@@ -38,8 +38,6 @@ their individual health situation</p>
 ``` cd virtual env
     source venv/bin/activate
  ```
- ```python app.py
- ```
  
   ## Here is simple snippet for tracking
  ```
